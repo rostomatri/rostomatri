@@ -36,120 +36,35 @@ Data Science & AI Engineer | Computer Vision | NLP | LLMs | RAG
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🏦 [Attijari Insight](https://github.com/rostomatri/attijari-insight)
 
-### 🏦 Attijari Insight
+> Multimodal AI platform for employee well-being and HR analytics.
 
-**AI-powered employee well-being platform**
+`Django` `React` `PostgreSQL` `Computer Vision` `Speech AI` `LLMs`
 
-A multimodal AI platform developed during my graduation project at **Attijari Bank Tunisia**, combining Computer Vision, Speech AI, NLP and Generative AI to monitor employee well-being and support HR decision-making.
+---
 
-**Highlights**
+### 📄 [Smart Recruitment](https://github.com/rostomatri/smartrecrutement)
 
-- 👁️ Computer Vision for fatigue & posture detection
-- 🎤 Speech transcription & emotion analysis
-- 📝 Adaptive AI questionnaires
-- 📊 HR analytics dashboards
-- 🤖 Multimodal AI
+> AI recruitment platform with OCR, LayoutLMv3 and RAG.
 
-**Tech Stack**
+`Python` `OCR` `LayoutLMv3` `LangGraph` `RAG`
 
-`Django` `React` `PostgreSQL` `MediaPipe` `Whisper` `Wav2Vec2` `Gemini` `Grok`
+---
 
-➡️ **Repository**
+### 📚 [Financial RAG Chatbot](https://github.com/rostomatri/rag-chatbot-raptor-technique)
 
-https://github.com/rostomatri/attijari-insight
+> Advanced financial document assistant powered by RAPTOR.
 
-</td>
-</tr>
+`Python` `LangChain` `RAPTOR` `Qdrant`
 
-<tr>
-<td>
+---
 
-### 📄 Smart Recruitment
+### 📢 [MarketMind](https://github.com/rostomatri/MarketMind-4DS3)
 
-**AI-powered Recruitment Platform**
+> AI platform for automated marketing campaign generation.
 
-An intelligent recruitment platform that automatically extracts CV information, scores candidates, predicts target jobs and assists recruiters using LLMs.
-
-**Highlights**
-
-- OCR
-- LayoutLMv3 Fine-Tuning
-- RAG
-- LangGraph
-- AI Feedback
-- Job Prediction
-
-**Tech Stack**
-
-`Python` `LayoutLMv3` `OCR` `LangGraph` `LangChain` `Grok`
-
-➡️ **Repository**
-
-https://github.com/rostomatri/smartrecrutement
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📚 Advanced Financial RAG Chatbot
-
-Designed an advanced Retrieval-Augmented Generation (RAG) system for financial document understanding using the RAPTOR hierarchical indexing technique.
-
-**Highlights**
-
-- RAPTOR
-- Semantic Chunking
-- Qdrant
-- LangChain
-- Hugging Face
-- Financial Document QA
-
-**Tech Stack**
-
-`Python` `LangChain` `RAPTOR` `Qdrant` `HuggingFace`
-
-➡️ **Repository**
-
-https://github.com/rostomatri/rag-chatbot-raptor-technique
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📢 MarketMind
-
-**AI-powered Digital Marketing Platform**
-
-A multimodal AI platform for SMEs that automates digital marketing campaigns using LLMs, NLP and Retrieval-Augmented Generation.
-
-**Highlights**
-
-- Marketing AI
-- LLMs
-- RAG
-- NLP
-- Campaign Personalization
-
-**Tech Stack**
-
-`Python` `LLMs` `LangChain` `NLP`
-
-➡️ **Repository**
-
-https://github.com/rostomatri/MarketMind-4DS3
-
-</td>
-</tr>
-
-</table>
+`LLMs` `NLP` `RAG` `LangChain`
 
 ---
 
