@@ -12,26 +12,25 @@ Data Science & AI Engineer | Computer Vision | NLP | LLMs | RAG
 
 # 👩‍💻 About Me
 
-🎓 Engineering Degree in Computer Science (Data Science) – ESPRIT (2026)
+🎓 **Engineering Degree in Computer Science (Data Science)** – ESPRIT (2026)
 
-🤖 Passionate about Artificial Intelligence and Machine Learning.
+📍 **Tunis, Tunisia**
 
-I enjoy designing intelligent systems combining:
-
-- 👁️ Computer Vision
-- 💬 Natural Language Processing
-- 🧠 Large Language Models
-- 📄 Document Intelligence
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🤖 Multimodal AI
-
-🚀 I'm passionate about transforming AI research into real-world applications that solve practical business problems.
-
-📍 Tunis, Tunisia
-
-💼 Open to AI Engineer and Data Science opportunities.
+💼 **Open to AI Engineer & Data Science opportunities**
 
 ---
+
+### 🚀 Currently Working With
+
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=for-the-badge)
+![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-FF9800?style=for-the-badge)
+
+---
+
+💡 I build intelligent AI systems by combining **Computer Vision, NLP, Large Language Models, and Retrieval-Augmented Generation** to create scalable, real-world solutions.
 
 
 
@@ -156,108 +155,71 @@ https://github.com/rostomatri/MarketMind-4DS3
 
 # 🛠 Tech Stack
 
-## Programming Languages
+## 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-## Artificial Intelligence
+## 🤖 Artificial Intelligence & Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
+---
 
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-orange?style=for-the-badge)
+## 🧠 LLM & RAG
 
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
-
-![LangChain](https://img.shields.io/badge/LangChain-blue?style=for-the-badge)
-
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0A66C2?style=for-the-badge)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
-
-![MediaPipe](https://img.shields.io/badge/MediaPipe-blue?style=for-the-badge)
-
----
-
-## LLM & RAG
-
-- Prompt Engineering
-- Fine-Tuning
-- RAG
-- LangGraph
-- LangChain
-- ChromaDB
-- Qdrant
-- Ollama
-- Whisper
-- BERT
-- Gemini
-- Grok
+![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
+![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-FF9800?style=for-the-badge)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A5ACD?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-10A37F?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FFB000?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
 
 ---
 
-## Development
+## 🌐 Development
 
-- Django
-- React
-- FastAPI
-- Flask
-- Spring Boot
-
----
-
-## Databases
-
-- PostgreSQL
-- MongoDB
-- MySQL
-- Oracle
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
-## DevOps & MLOps
+## 🗄️ Databases
 
-- Docker
-- Kubernetes
-- Jenkins
-- MLflow
-- GitHub Actions
-
----
-
-# 🏅 Certifications
-
-- Oracle OCI 2025 AI Foundations Associate
-- AWS Academy Cloud Foundations
-- NVIDIA – Building Transformer-Based NLP Applications
-- Evaluation and Light Customization of Large Language Models
-- CCNA – Switching, Routing and Wireless Essentials
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats
+## ⚙️ DevOps & MLOps
 
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rostomatri&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rostomatri&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=rostomatri&theme=tokyonight"/>
-
-</p>
-
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 # 🌐 Connect With Me
 
@@ -274,7 +236,3 @@ https://github.com/rostomatri/MarketMind-4DS3
 </p>
 
 ---
-
-# 💡 Quote
-
-> "Artificial Intelligence is not only about building models. It's about building intelligent systems that create real impact."
