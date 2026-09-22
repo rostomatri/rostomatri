@@ -38,9 +38,9 @@ Data Science & AI Engineer | Computer Vision | NLP | LLMs | RAG
 
 ### 🏦 [Attijari Insight](https://github.com/rostomatri/attijari-insight)
 
-> Multimodal AI platform for employee well-being and HR analytics.
+> **6-month Graduation Project (PFE)** in collaboration with **Attijari Bank Tunisia**. Developed a multimodal AI platform for employee well-being and HR analytics.
 
-`Django` `React` `PostgreSQL` `Computer Vision` `Speech AI` `LLMs`
+`Django` `React` `PostgreSQL` `Computer Vision` `Speech AI` `LLMs` `NLP` 
 
 ---
 
@@ -54,7 +54,7 @@ Data Science & AI Engineer | Computer Vision | NLP | LLMs | RAG
 
 ### 📚 [Financial RAG Chatbot](https://github.com/rostomatri/rag-chatbot-raptor-technique)
 
-> Advanced financial document assistant powered by RAPTOR.
+> Advanced **RAG-based chatbot** for financial document understanding, powered by the **RAPTOR** hierarchical retrieval technique.
 
 `Python` `LangChain` `RAPTOR` `Qdrant`
 
@@ -62,9 +62,9 @@ Data Science & AI Engineer | Computer Vision | NLP | LLMs | RAG
 
 ### 📢 [MarketMind](https://github.com/rostomatri/MarketMind-4DS3)
 
-> AI platform for automated marketing campaign generation.
+Multimodal Generative AI platform for digital marketing with **text generation, image generation, video generation, and text-to-speech** capabilities.
 
-`LLMs` `NLP` `RAG` `LangChain`
+`LLMs` `NLP` `RAG` `Text Generation` `Image Generation` `Video Generation` `Text-to-Speech`
 
 ---
 
